@@ -1,11 +1,11 @@
 # Free Windows Activator  
 ## Instructions  
-1. Set your KMS server to atlantic.net. Run this from an elevated command prompt:  
-`slmgr.vbs /skms kms.atlantic.net:1688`  
+1. Set your KMS server. Run this from an elevated command prompt:  
+`slmgr /skms s8.uk.to`  
 2. Set your activation key. Activation keys can be found below.  
-`slmgr.vbs /ipk (activation_key)`  
+`slmgr /ipk (activation_key)`  
 3. Activate Windows. You'll need an internet connection.  
-`slmgr.vbs /ato`  
+`slmgr /ato`  
 4. Enjoy Windows! Note that this has a 180-day validity, after which you have to repeat the steps.
 ## Activation Keys  
 Below you can find the activation keys for any version of Windows.  

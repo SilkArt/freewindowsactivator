@@ -7,6 +7,7 @@
 3. Activate Windows. You'll need an internet connection.  
 `slmgr /ato`  
 4. Enjoy Windows! Note that this has a 180-day validity, after which you have to repeat the steps.
+5. If the KMS server is banned, use s9.us.to.
 ## Activation Keys  
 Below you can find the activation keys for any version of Windows.  
 ### Windows Server 2022 LTSC  
